@@ -67,6 +67,7 @@ Browser automation frameworks and end-to-end testing ecosystems.
 - [Smart Bear](https://smartbear.com/).
 
 ## Test Case Management and Reporting
+- [Treseko Community](https://treseko.com/). Self-hosted test management for organizing test cases and suites, running manual and API tests, and tracking execution evidence and reports.
 
 - [Xray](https://www.getxray.app/).
 - [Testrail](https://www.testrail.com/). Test management and orchestration platform.
